@@ -14,4 +14,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/BG/Mode Select.unity
     guid: 49374ca0281066840af0e5e6bc8dc6a4
+  - enabled: 1
+    path: Assets/BG/mode a.unity
+    guid: 0b465a2daf5132e41afd972ed1a422c8
+  - enabled: 1
+    path: Assets/BG/mode b.unity
+    guid: ff21f32816e6bb04da09ccfad0cfb6ba
+  - enabled: 1
+    path: Assets/BG/mode c.unity
+    guid: a61ec05fbb38aaf469712c0565a66a00
+  - enabled: 1
+    path: Assets/BG/mode d.unity
+    guid: 1cb574c4cabf0c94aab3a3282c57582a
   m_configObjects: {}
