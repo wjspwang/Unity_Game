@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/BG/Game.unity
     guid: 6eb034ec0bcb2d34ca3f191fb18df183
+  - enabled: 1
+    path: Assets/BG/Mode Select.unity
+    guid: 49374ca0281066840af0e5e6bc8dc6a4
   m_configObjects: {}
