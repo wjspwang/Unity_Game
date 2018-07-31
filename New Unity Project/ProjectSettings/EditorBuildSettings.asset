@@ -12,18 +12,24 @@ EditorBuildSettings:
     path: Assets/BG/Game.unity
     guid: 6eb034ec0bcb2d34ca3f191fb18df183
   - enabled: 1
-    path: Assets/BG/Mode Select.unity
+    path: Assets/BG/Category.unity
+    guid: 72c55350621fe1a418724967e698bc0a
+  - enabled: 1
+    path: Assets/BG/EnglishModeSelect.unity
     guid: 49374ca0281066840af0e5e6bc8dc6a4
   - enabled: 1
-    path: Assets/BG/mode a.unity
+    path: Assets/BG/PhonemeModeSelect.unity
+    guid: 07c8a294306512a459abfb8c209507a1
+  - enabled: 1
+    path: Assets/BG/CountingScene.unity
     guid: 0b465a2daf5132e41afd972ed1a422c8
   - enabled: 1
-    path: Assets/BG/mode b.unity
+    path: Assets/BG/RhymeScene.unity
     guid: ff21f32816e6bb04da09ccfad0cfb6ba
   - enabled: 1
-    path: Assets/BG/mode c.unity
+    path: Assets/BG/BlendingSccene.unity
     guid: a61ec05fbb38aaf469712c0565a66a00
   - enabled: 1
-    path: Assets/BG/mode d.unity
+    path: Assets/BG/DeletionScene.unity
     guid: 1cb574c4cabf0c94aab3a3282c57582a
   m_configObjects: {}
