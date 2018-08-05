@@ -6,30 +6,90 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/BG/Menu.unity
+    path: Assets/Scenes/Menu.unity
     guid: 11872b30c4d28704e948cca8dcc21898
   - enabled: 1
-    path: Assets/BG/Game.unity
+    path: Assets/Scenes/Game.unity
     guid: 6eb034ec0bcb2d34ca3f191fb18df183
   - enabled: 1
-    path: Assets/BG/Category.unity
+    path: Assets/Scenes/Category.unity
     guid: 72c55350621fe1a418724967e698bc0a
   - enabled: 1
-    path: Assets/BG/EnglishModeSelect.unity
+    path: Assets/Scenes/EnglishModeSelect.unity
     guid: 49374ca0281066840af0e5e6bc8dc6a4
   - enabled: 1
-    path: Assets/BG/PhonemeModeSelect.unity
+    path: Assets/Scenes/PhonemeModeSelect.unity
     guid: 07c8a294306512a459abfb8c209507a1
   - enabled: 1
-    path: Assets/BG/CountingScene.unity
-    guid: 0b465a2daf5132e41afd972ed1a422c8
+    path: Assets/Scenes/CountingLevelSelect.unity
+    guid: d579742667365af43abeeb00534fe340
   - enabled: 1
-    path: Assets/BG/RhymeScene.unity
+    path: Assets/Scenes/Counting/CountingLevel1.unity
+    guid: 6793d0a4ee3595845bf10c6e17ac40ef
+  - enabled: 1
+    path: Assets/Scenes/Counting/CountingLevel2.unity
+    guid: 478f04829850395469ac999895c66c1d
+  - enabled: 1
+    path: Assets/Scenes/Counting/CountingLevel3.unity
+    guid: 72c9329e91cd4f04dbccd7d2dc5837f4
+  - enabled: 1
+    path: Assets/Scenes/Counting/CountingLevel4.unity
+    guid: a4897c6e3ddd1234988346447c1ef57f
+  - enabled: 1
+    path: Assets/Scenes/Counting/CountingLevel5.unity
+    guid: eacfdab2325b5834f8611df51f572473
+  - enabled: 1
+    path: Assets/Scenes/Counting/CountingLevel6.unity
+    guid: 2e482e174585ab242a33485127bb3a80
+  - enabled: 1
+    path: Assets/Scenes/Counting/CountingLevel7.unity
+    guid: 5ba11d9165f01e84490450552307fc0e
+  - enabled: 1
+    path: Assets/Scenes/Counting/CountingLevel8.unity
+    guid: dc0c4e2a6046d9a4099854e61d35a958
+  - enabled: 1
+    path: Assets/Scenes/Counting/CountingLevel9.unity
+    guid: f0d315a14deac22418d1c908430e12af
+  - enabled: 1
+    path: Assets/Scenes/Counting/CountingLevel10.unity
+    guid: 3a1bfb0c95c13364d95eed1b65974462
+  - enabled: 1
+    path: Assets/Scenes/Counting/CountingLevel11.unity
+    guid: 7fc1262803abe28428dc17fe41583ccf
+  - enabled: 1
+    path: Assets/Scenes/Counting/CountingLevel12.unity
+    guid: 1b2137d299b555b419d17997bc3dcba4
+  - enabled: 1
+    path: Assets/Scenes/Counting/CountingLevel13.unity
+    guid: 5c17fc809a7780c4282e725af2bdaeb1
+  - enabled: 1
+    path: Assets/Scenes/Counting/CountingLevel14.unity
+    guid: dfbf2106adaf5f3469f9b4ca6827e32c
+  - enabled: 1
+    path: Assets/Scenes/Counting/CountingLevel15.unity
+    guid: 56338b7c48f5ae34e92d81da22e943a1
+  - enabled: 1
+    path: Assets/Scenes/Counting/CountingLevel16.unity
+    guid: 8a1663dda1102284a9a4fea8bafe13bc
+  - enabled: 1
+    path: Assets/Scenes/Counting/CountingLevel17.unity
+    guid: 96030afd712ffc146b041f18fb32a70f
+  - enabled: 1
+    path: Assets/Scenes/Counting/CountingLevel18.unity
+    guid: daf3791a1a8e03245806a0e0b88cd352
+  - enabled: 1
+    path: Assets/Scenes/Counting/CountingLevel19.unity
+    guid: ec1db7ba34389064995e88f2f0192ba9
+  - enabled: 1
+    path: Assets/Scenes/Counting/CountingLevel20.unity
+    guid: 43f839cbf10bf2c4e9291ca4f04c28aa
+  - enabled: 1
+    path: Assets/Scenes/RhymeScene.unity
     guid: ff21f32816e6bb04da09ccfad0cfb6ba
   - enabled: 1
-    path: Assets/BG/BlendingSccene.unity
+    path: Assets/Scenes/BlendingSccene.unity
     guid: a61ec05fbb38aaf469712c0565a66a00
   - enabled: 1
-    path: Assets/BG/DeletionScene.unity
+    path: Assets/Scenes/DeletionScene.unity
     guid: 1cb574c4cabf0c94aab3a3282c57582a
   m_configObjects: {}
